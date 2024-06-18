@@ -19,22 +19,16 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-  plugins:
-    - search
-    - blog
-  features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.tabs
-    - navigation.indexes
-    - search.suggest
-    - search.highlight
-    - search.share
-    - navigation.top
-    - navigation.footer
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/solvex-software
-      name: Solve(x) on GitHub
-copyright: Copyright &copy; Solve(x) Systems LLC
+plugins:
+  - search
+  - blog
+features:
+  - navigation.instant
+  - navigation.instant.progress
+  - navigation.tabs
+  - navigation.indexes
+  - search.suggest
+  - search.highlight
+  - search.share
+  - navigation.top
+  - navigation.footer
