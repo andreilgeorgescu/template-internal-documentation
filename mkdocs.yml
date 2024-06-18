@@ -19,10 +19,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-plugins:
-  - search
-  - blog
-features:
+  features:
   - navigation.instant
   - navigation.instant.progress
   - navigation.tabs
@@ -32,3 +29,6 @@ features:
   - search.share
   - navigation.top
   - navigation.footer
+plugins:
+  - search
+  - blog
