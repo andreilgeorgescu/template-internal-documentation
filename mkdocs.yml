@@ -1,5 +1,5 @@
-site_name: Internal Documentation
-site_url: https://andreilgeorgescu.github.io/mytest
+site_name: # TODO
+site_url: # TODO
 theme:
   name: material
   palette:
